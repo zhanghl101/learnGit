@@ -1,8 +1,7 @@
 # learnGit
 //Haolin
 oooooo
-aaa
-ccc
 hihi
+abc
 //Renee
 testing 1
