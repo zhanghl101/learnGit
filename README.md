@@ -1,6 +1,5 @@
 # learnGit
 //Haolin
-oooooo
 aaa
 ccc
 hihi
