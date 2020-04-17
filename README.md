@@ -1,6 +1,6 @@
 # learnGit
 //Haolin
-oooooo
+fixed
 hihi
 abc
 //Renee
